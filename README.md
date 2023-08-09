@@ -5,4 +5,4 @@ A simple integration of the frontend (React) and backend (Express)
 * JavaScript
 * Node.js
 * React.js
-* Express
+* Express.js
